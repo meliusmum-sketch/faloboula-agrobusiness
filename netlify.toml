@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "http://faloboula-agrobusiness.com/*"
+  to = "https://faloboula-agrobusiness.com/:splat"
+  status = 301
+  force = true
