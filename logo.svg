@@ -1,0 +1,9 @@
+<svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="44" fill="none" stroke="#c8a84e" stroke-width="1.5"/>
+  <path d="M35 25 C35 25, 30 35, 35 50 C40 65, 50 72, 50 85" stroke="#c8a84e" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M65 25 C65 25, 70 35, 65 50 C60 65, 50 72, 50 85" stroke="#4a7c59" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <circle cx="35" cy="25" r="4" fill="#c8a84e"/>
+  <circle cx="65" cy="25" r="4" fill="#4a7c59"/>
+  <circle cx="50" cy="85" r="5" fill="none" stroke="#c8a84e" stroke-width="1.5"/>
+  <text x="50" y="96" text-anchor="middle" fill="#c8a84e" font-family="Playfair Display, serif" font-size="6" font-weight="700" letter-spacing="2">FA</text>
+</svg>
